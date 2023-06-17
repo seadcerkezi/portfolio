@@ -67,7 +67,7 @@ const Work = () => {
                 React JS Aplication
               </span>
               <div className="pt-8 text-center">
-                <a href="https://github.com/seadcerkezi/Elegant-Store">
+                <a href="https://github.com/seadcerkezi/note-project">
                   <button className="text-center rounded-lg- px-4 py-3 m-2 bg-white text-gray-700  hover:bg-[#3b4c69] hover:text-white font-bold text-lg">
                     Code
                   </button>

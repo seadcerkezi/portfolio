@@ -15,10 +15,9 @@ const Home = () => {
           I'm a web developer
         </h2>
         <p className="text-[#8892b0] py-4 max-w-[700px] ">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos iste
-          alias harum officiis earum est quas repellendus tempore deserunt eum
-          molestias, molestiae nobis architecto ab sint repellat fugiat corporis
-          fugit!
+          Grounded and solution oriented web developer. Adept at motivating self
+          and others. Always trying to improve my skills and adapt to the newer
+          technologies.
         </p>
         <div>
           <button className="text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600">

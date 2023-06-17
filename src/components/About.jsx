@@ -17,10 +17,12 @@ const About = () => {
             <p>Hi. I'm Sead, nice to meet you. Please take a look around.</p>
           </div>
           <div>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum
-            provident consequatur tenetur, amet iste quo sapiente necessitatibus
-            magnam voluptatibus atque dignissimos, pariatur adipisci! Nesciunt
-            obcaecati aperiam autem deserunt ut saepe.
+            As a new web developer, I'm ready to contribute my skills in
+            creating engaging and functional websites. Proficient in HTML, CSS,
+            React, I excel at developing intuitive web experiences. With strong
+            problem-solving abilities and a collaborative mindset, I'm eager to
+            deliver innovative solutions and make a meaningful impact in the
+            field of web development.
           </div>
         </div>
       </div>
