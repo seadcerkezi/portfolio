@@ -54,7 +54,7 @@ const Work = () => {
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/seadcerkezi/note-project">
+                <a href="https://github.com/seadcerkezi/Massimo">
                   <button className="text-center rounded-lg- px-4 py-3 m-2 bg-white text-gray-700  hover:bg-[#3b4c69] hover:text-white font-bold text-lg">
                     Code
                   </button>
