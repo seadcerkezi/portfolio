@@ -1,7 +1,7 @@
 import React from "react";
 import Elegant from "../assets/elegant.JPG";
 import Crypto from "../assets/crypto.JPG";
-import Notes from "../assets/note.JPG";
+import Massimo from "../assets/massimo.JPG";
 
 const Work = () => {
   return (
@@ -40,6 +40,29 @@ const Work = () => {
             </div>
           </div>
           <div
+            style={{ backgroundImage: `url(${Massimo})` }}
+            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
+          >
+            {/* Hover Effects */}
+            <div className="opacity-0 group-hover:opacity-100">
+              <span className="text-2xl font-bold text-white tracking-wider">
+                React JS Aplication
+              </span>
+              <div className="pt-8 text-center">
+                <a href="https://seadcerkezi.github.io/Massimo/">
+                  <button className="text-center rounded-lg- px-4 py-3 m-2 bg-white text-gray-700  hover:bg-[#3b4c69] hover:text-white font-bold text-lg">
+                    Demo
+                  </button>
+                </a>
+                <a href="https://github.com/seadcerkezi/note-project">
+                  <button className="text-center rounded-lg- px-4 py-3 m-2 bg-white text-gray-700  hover:bg-[#3b4c69] hover:text-white font-bold text-lg">
+                    Code
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div
             style={{ backgroundImage: `url(${Crypto})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
@@ -51,24 +74,6 @@ const Work = () => {
               <div className="pt-8 text-center">
                 <a href="https://github.com/seadcerkezi/CryptoTracker">
                   <button className="text-center rounded-lg- px-4 py-3 m-2 bg-white text-gray-700 hover:bg-[#3b4c69] hover:text-white font-bold text-lg">
-                    Code
-                  </button>
-                </a>
-              </div>
-            </div>
-          </div>
-          <div
-            style={{ backgroundImage: `url(${Notes})` }}
-            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
-          >
-            {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Aplication
-              </span>
-              <div className="pt-8 text-center">
-                <a href="https://github.com/seadcerkezi/note-project">
-                  <button className="text-center rounded-lg- px-4 py-3 m-2 bg-white text-gray-700  hover:bg-[#3b4c69] hover:text-white font-bold text-lg">
                     Code
                   </button>
                 </a>
